@@ -1,0 +1,9 @@
+/* 
+  infoPlist.strings
+  Runner
+
+  Created by 杉山優悟 on 2021/05/13.
+  
+*/
+"NSCameraUsageDescription" = "Access the camera to get Wi-Fi information";
+"NSPhotoLibraryUsageDescription" = "Access the photo library to get Wi-Fi information";
